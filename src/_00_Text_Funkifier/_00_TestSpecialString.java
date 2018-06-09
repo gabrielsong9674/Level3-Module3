@@ -33,7 +33,7 @@ public class _00_TestSpecialString {
 	}
 	
 	//4. Create your own class that extends SpecialString.
-	//   Overwrite the funkifyText method to make any kind of 
+	//   Override the funkifyText method to make any kind of 
 	//   new String you want. Then use the assertEquals method in
 	//   the JUnitTest case below to test your customized Special String.
 	@Test
