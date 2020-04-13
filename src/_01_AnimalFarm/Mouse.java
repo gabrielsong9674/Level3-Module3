@@ -1,11 +1,12 @@
 package _01_AnimalFarm;
 
-public class Pig extends Animal{
+public class Mouse extends Animal {
 
 	@Override
 	void makeNoise() {
 		// TODO Auto-generated method stub
-		System.out.println("oink");
+		System.out.println("squeak");
+
 	}
-	
+
 }
